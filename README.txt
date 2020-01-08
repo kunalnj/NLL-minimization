@@ -1,0 +1,1 @@
+This zip file contains project.ipynb which is the main Jupiter notebook. matrix_methods.py is an additional file that is imported and used. Run the first cell twice to prevent inline plotting and plot in separate windows every time with matplotlib qt command. Otherwise, notebook should work as expected. data.txt and unoscillated_flux.txt are the data files.
